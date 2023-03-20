@@ -36,7 +36,7 @@ class _HomeHiveState extends State<HomeHive> {
                   controller: listController,
                   decoration: InputDecoration(
                     hintText: 'Input text',
-                    label: Text('Istem')
+                    label: Text('Istsem')
                   ),
                 ),
                 ElevatedButton(onPressed: (){
